@@ -1,0 +1,63 @@
+{
+  "settings": {
+    "storeName": "Fanzz Store",
+    "waNumber": "6283195439759",
+    "storeDesc": "Platform Digital Store yang menyediakan segala Tools dan Kebutuhan anda.",
+    "announcement": "🔥 Grand Opening Diskon 25%. Transaksi Lebih Praktis Dan Cepat Lewat WhatsApp! Segera Belanja",
+    "danaNumber": "085169570457",
+    "danaName": "ASIH",
+    "bankInfo": "Kirim Bukti Transfer Via WhatsApp.",
+    "csOnline": true
+  },
+  "categories": [
+    "Account Premium",
+    "Joki Fisch",
+    "Joki Blox Fruit",
+    "Joki SAE"
+  ],
+  "products": [
+    {
+      "id": "prod-1793532741976",
+      "title": "Domsekkar Rod",
+      "price": 20000,
+      "category": "Joki Fisch",
+      "deliveryTag": "Via WhatsApp",
+      "image": "https://static.wikitide.net/fischwiki/d/d9/Doomsekkar_Rod.png",
+      "status": "ready",
+      "description": "Akun akan dikerjakan setelah proses payment selesai dan akan dihubungi Via WhatsApp oleh CS kami jika ada Kendala atau Proses Selesai."
+    },
+    {
+      "id": "prod-1793532570051",
+      "title": "AM Premium 1 Tahun",
+      "price": 5000,
+      "category": "Account Premium",
+      "deliveryTag": "Proses 5-10 Menit",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bSMooRTkICBp8PH7p9aL0aNSKWDBtCCu5I3L_ZXjBA&s=10",
+      "status": "ready",
+      "description": "Am Premium 1 Tahun Email Buyer (Protection)."
+    },
+    {
+      "id": "prod-1793531738526",
+      "title": "AM Premium 1 Tahun",
+      "price": 2500,
+      "category": "Account Premium",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2bSMooRTkICBp8PH7p9aL0aNSKWDBtCCu5I3L_ZXjBA&s=10",
+      "status": "ready",
+      "description": "Am Premium 1 Tahun Email Generate (Non Protection)."
+    }
+  ],
+  "vouchers": [
+    {
+      "code": "FANZZNEW",
+      "type": "fixed",
+      "value": 5000
+    },
+    {
+      "code": "PROMO10",
+      "type": "percent",
+      "value": 10
+    }
+  ],
+  "ordersLog": [],
+  "updatedAt": "2026-11-02T17:27:35.321Z"
+}
